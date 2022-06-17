@@ -7,6 +7,7 @@ import com.qualcomm.robotcore.hardware.Servo;
 
 public class Hardware_Class {
     public DCMotorEx leftfront = null;
+    public
 
 
     public Hardware_Class(){
